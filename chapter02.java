@@ -1,12 +1,10 @@
-package JavaCore;
-
 /*public class chapter02 {
     public static void main(String args[]) {
         System.out.println("Простая программа на Java."); //не удается запустить код, возможно проблема в пути к файлу
     }
 }*/
 /*class chapter02 {
-    public static void main(String args[]) {
+     static void main(String args[]) {
         int num; //объявление целчосиленной переменной с именнем нум
         num = 100; //присваиваем значение 100
         System.out.println("Это переменная num: " + num); //выводим в консоль нум=100
