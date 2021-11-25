@@ -14,12 +14,6 @@ class IfElse {
             season = "вымышленным месяцам";
             System.out.println("Апрель относится к " + season +".");
 
-else i f (month == 9 11 month
-                season = " осени " ;
-        10 1 1 month == 11)
-else
-        season = " вЬIМЫШЛенным месяцам" ;
-        System . out . println ( "Aпpeль относится к"+ season + "." ) ;}}
 
 class SampleSwitch (
         puЫic static void main ( St ring argз[] ) (
