@@ -1,17 +1,18 @@
-class I fElse {
-    puЫic static void main ( String args [ ] ) {
-        int month = 4; 11 Апрель
-        S t ring season;
-        i f (month == 12 11 month == 1 1 1 month == 2)
-        season = " зиме ";
-else i f ( month == З 11 month
-                season = " весне ";
-else i f ( month == 6 11 month
+class IfElse {
+    public static void main (String args[]) {
+        int month = 4; // Апрель
+        String season;
+        if (month == 12 || month == 1 || month == 2)
+                season = " зиме ";
+        else if ( month == 3 || month == 4 || month == 2)
+                season = "весне";
+        else if ( month == 6 || month == 7 || month == 8)
                 season = "лету";
-        4 11 month
-        7 1 1 month
-        5)
-        8)
+        else if (month == 9 || month == 10 || month == 11) {
+                season = "осени";
+        else
+            season = "вымышленным месяцам";
+            System.out.println("Апрель относится к " + season +".");
 
 else i f (month == 9 11 month
                 season = " осени " ;
